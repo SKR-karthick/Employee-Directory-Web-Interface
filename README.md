@@ -223,10 +223,17 @@ The application is fully responsive with breakpoints at:
 
 *Note: Screenshots would typically be included here showing:*
 - Main dashboard view
+<img width="1919" height="977" alt="image" src="https://github.com/user-attachments/assets/a8311a00-2c8b-40a6-9a68-4a58f525787e" />
+
 - Add/Edit employee modal
+<img width="1919" height="971" alt="image" src="https://github.com/user-attachments/assets/20371239-31c0-4bcd-b2e1-fff11bdf22e8" />
+<img width="1919" height="966" alt="image" src="https://github.com/user-attachments/assets/cdb7ba2f-aeec-49fc-96a9-7cb6af2c0728" />
+
 - Filter sidebar in action
+<img width="697" height="949" alt="image" src="https://github.com/user-attachments/assets/3a5078cc-5373-42ea-a4d3-73aa26d61601" />
+
 - Mobile responsive layout
-- Search and pagination features
+<img width="1919" height="965" alt="image" src="https://github.com/user-attachments/assets/a33b2aa6-e729-40f9-b8e2-ae94b04271eb" />
 
 ## 📄 Browser Support
 
