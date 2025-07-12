@@ -221,7 +221,6 @@ The application is fully responsive with breakpoints at:
 
 ## 📸 Screenshots
 
-*Note: Screenshots would typically be included here showing:*
 - Main dashboard view
 <img width="1919" height="977" alt="image" src="https://github.com/user-attachments/assets/a8311a00-2c8b-40a6-9a68-4a58f525787e" />
 
